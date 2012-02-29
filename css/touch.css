@@ -1,0 +1,25 @@
+ .NavigationButtonImage
+ {
+     width: 65px;
+     height: auto;
+ }
+ 
+ .title
+ {
+     background-color:#e3d595;
+     color:Black;
+     font-size:xx-large;
+     text-align:center;
+     border-bottom:medium black solid;
+ }
+ 
+ .table
+ {
+     font-size:medium;
+     width:100%;
+ }
+ 
+  .body
+ {
+     font-size:medium;
+ }
