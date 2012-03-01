@@ -1,0 +1,5 @@
+I know that this isn't exactly the right way to use github but I'm learning and I always find the best way to learn is to try do something even if you're not very good yet.
+
+This is like the other Nokia apps I have up here. They work very much like mobile web pages and if you download everything, zip it, and then change the *.zip to *.wgz and copy it to a phone running Symbian it will install and run.
+
+Most of the logic is in javascript on top the Nokia WebRunTime Kit (in the WRT folder) the layout is in html/css and there are some calls to native APIs, mostly via platformservices.js, for access to the camera, location and filesystem.
